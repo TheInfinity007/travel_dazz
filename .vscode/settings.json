@@ -1,0 +1,15 @@
+{
+    "editor.tabSize": 4,
+    "files.autoSave": "afterDelay",
+    "files.defaultLanguage": "javascriptreact",
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    // setting single quote for prettier for react
+    "prettier.singleQuote": true,
+    "prettier.tabWidth": 4,
+    "[javascriptreact]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
